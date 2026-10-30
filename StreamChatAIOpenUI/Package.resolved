@@ -1,0 +1,24 @@
+{
+  "originHash" : "e02c31954a05e5d0addf0dcd9738b4c7131bb7241e1bc8e0a266f582adc57a1b",
+  "pins" : [
+    {
+      "identity" : "stream-core-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GetStream/stream-core-swift.git",
+      "state" : {
+        "revision" : "8771f50a5ddeb50f1b0a0c6d5d1f35b1601295a5",
+        "version" : "0.16.0"
+      }
+    },
+    {
+      "identity" : "stream-logs-ui-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GetStream/stream-logs-ui-swift.git",
+      "state" : {
+        "revision" : "47b7c4621169c398adacb4000ad171ae81a5adf5",
+        "version" : "0.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}

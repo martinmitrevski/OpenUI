@@ -1,0 +1,30 @@
+{
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Components/Support/FormSupport.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormSupport.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormSupport.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormSupport.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormSupport.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormSupport.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Components/Support/LayoutSupport.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/LayoutSupport.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/LayoutSupport.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/LayoutSupport.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/LayoutSupport.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/LayoutSupport.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Lang/MessageEnvelope.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MessageEnvelope.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MessageEnvelope.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MessageEnvelope.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MessageEnvelope.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MessageEnvelope.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Lang/Parser/AST.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/AST.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/AST.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/AST.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/AST.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/AST.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'openui-prompt-product' in project 'OpenUI'
+➜ Explicit dependency on target 'OpenUI' in project 'OpenUI'
+Target 'OpenUI' in project 'OpenUI' (no dependencies)

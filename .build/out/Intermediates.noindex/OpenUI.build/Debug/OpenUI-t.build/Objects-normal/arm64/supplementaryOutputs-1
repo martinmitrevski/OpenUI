@@ -1,0 +1,30 @@
+{
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Components/Actions/ActionComponents.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionComponents.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionComponents.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionComponents.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionComponents.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionComponents.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Components/Cards/CardComponents.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/CardComponents.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/CardComponents.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/CardComponents.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/CardComponents.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/CardComponents.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Components/Charts/ChartComponents.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ChartComponents.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ChartComponents.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ChartComponents.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ChartComponents.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ChartComponents.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Components/Content/ContentComponents.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ContentComponents.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ContentComponents.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ContentComponents.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ContentComponents.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ContentComponents.swiftdeps"
+  }
+}

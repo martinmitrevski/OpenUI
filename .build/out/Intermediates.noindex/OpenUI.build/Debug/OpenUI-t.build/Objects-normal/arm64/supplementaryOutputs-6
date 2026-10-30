@@ -1,0 +1,30 @@
+{
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Lang/Runtime/ActionEvent.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionEvent.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionEvent.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionEvent.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionEvent.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ActionEvent.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Lang/Runtime/Builtins.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Builtins.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Builtins.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Builtins.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Builtins.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Builtins.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Lang/Runtime/Evaluator.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Evaluator.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Evaluator.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Evaluator.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Evaluator.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/Evaluator.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Lang/Runtime/FormValidation.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormValidation.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormValidation.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormValidation.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormValidation.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/FormValidation.swiftdeps"
+  }
+}

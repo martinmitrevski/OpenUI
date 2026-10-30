@@ -1,0 +1,30 @@
+{
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Library/Schemas/StandardSchemas.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/StandardSchemas.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/StandardSchemas.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/StandardSchemas.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/StandardSchemas.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/StandardSchemas.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Rendering/ComponentContext.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ComponentContext.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ComponentContext.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ComponentContext.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ComponentContext.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/ComponentContext.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Rendering/Markdown/MarkdownParser.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownParser.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownParser.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownParser.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownParser.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownParser.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUI/Rendering/Markdown/MarkdownView.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownView.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownView.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownView.dia",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownView.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/OpenUI-t.build/Objects-normal/arm64/MarkdownView.swiftdeps"
+  }
+}

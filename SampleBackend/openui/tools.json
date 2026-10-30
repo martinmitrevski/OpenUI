@@ -1,0 +1,176 @@
+[
+  {
+    "name": "search_hotels",
+    "description": "Search hotels in a city. Supports a maximum nightly price and sorting.",
+    "annotations": { "readOnlyHint": true },
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "city": { "type": "string" },
+        "maxPrice": { "type": "number" },
+        "sort": { "type": "string", "enum": ["price", "rating"] }
+      },
+      "required": ["city"]
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "city": { "type": "string" },
+        "total": { "type": "number" },
+        "hotels": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "string" },
+              "name": { "type": "string" },
+              "area": { "type": "string" },
+              "price": { "type": "number" },
+              "rating": { "type": "number" },
+              "highlight": { "type": "string" }
+            },
+            "required": ["id", "name", "area", "price", "rating"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "get_weather",
+    "description": "Daily weather forecast for a city (temperatures in °C).",
+    "annotations": { "readOnlyHint": true },
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "city": { "type": "string" },
+        "days": { "type": "number" }
+      },
+      "required": ["city"]
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "city": { "type": "string" },
+        "days": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "day": { "type": "string" },
+              "high": { "type": "number" },
+              "low": { "type": "number" },
+              "condition": { "type": "string" },
+              "rainChance": { "type": "number" }
+            },
+            "required": ["day", "high", "low", "condition", "rainChance"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "find_photos",
+    "description": "Real photos of landmarks, places or dishes, from Wikipedia and Wikimedia Commons. Pass the specific names you want to show, such as the sights you recommend, and the city or country as context. Topics without a matching free photo are left out. Each photo has a credit line with its author and license.",
+    "annotations": { "readOnlyHint": true },
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "topics": { "type": "array", "items": { "type": "string" } },
+        "context": { "type": "string" }
+      },
+      "required": ["topics"]
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "photos": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "topic": { "type": "string" },
+              "title": { "type": "string" },
+              "description": { "type": "string" },
+              "image": { "type": "string" },
+              "imageAlt": { "type": "string" },
+              "credit": { "type": "string" },
+              "pageUrl": { "type": "string" }
+            },
+            "required": ["topic", "title", "description", "image", "imageAlt", "credit", "pageUrl"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "scale_recipe",
+    "description": "Ingredient list of a known recipe scaled to a number of servings. Recipes: carbonara, shakshuka.",
+    "annotations": { "readOnlyHint": true },
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "recipe": { "type": "string" },
+        "servings": { "type": "number" }
+      },
+      "required": ["recipe", "servings"]
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "servings": { "type": "number" },
+        "calories": { "type": "number" },
+        "ingredients": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "item": { "type": "string" },
+              "amount": { "type": "string" }
+            },
+            "required": ["item", "amount"]
+          }
+        }
+      }
+    }
+  },
+  {
+    "name": "save_trip",
+    "description": "Save a trip plan to the user's account. Write operation — use with Mutation().",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "destination": { "type": "string" },
+        "travelers": { "type": "string" },
+        "budget": { "type": "number" },
+        "notes": { "type": "string" }
+      },
+      "required": ["destination"]
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "message": { "type": "string" }
+      }
+    }
+  },
+  {
+    "name": "add_to_shopping_list",
+    "description": "Add ingredients to the user's shopping list. Write operation — use with Mutation().",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "recipe": { "type": "string" },
+        "servings": { "type": "number" }
+      },
+      "required": ["recipe"]
+    },
+    "outputSchema": {
+      "type": "object",
+      "properties": {
+        "added": { "type": "number" },
+        "message": { "type": "string" }
+      }
+    }
+  }
+]

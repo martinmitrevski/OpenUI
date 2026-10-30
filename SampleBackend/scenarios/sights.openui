@@ -1,0 +1,12 @@
+root = Card([header, intro, sights, details, creditsHeader, credits, followUps], [src1])
+header = CardHeader("Top sights in Ohrid", "Photos from Wikipedia, visit times and entry prices")
+photos = Query("find_photos", {topics: ["Church of St. John at Kaneo", "Samuel's Fortress", "Church of St. Sophia", "Plaošnik", "Ancient Theatre of Ohrid", "Monastery of Saint Naum", "Galičica National Park"], context: "Ohrid"}, {photos: []})
+intro = TextContent("Most of Ohrid's sights are a short walk apart in the old town. The **Monastery of St. Naum** and **Galičica** make good half-day trips. Tap a photo to ask about a place.")
+sights = VisualCardBlock(@Each(photos.photos, "p", VisualCardItem(BoldText("text", p.title, p.description), p.topic, p.image, null, p.imageAlt)), "grid", true, Action([@ToAssistant("Tell me more about this place in Ohrid")]))
+details = Table([Col("Sight", ["St. John at Kaneo", "Samuel's Fortress", "St. Sophia", "Plaošnik", "Ancient Theatre", "St. Naum", "Galičica"]), Col("Time", ["45 min", "1 h", "40 min", "40 min", "20 min", "Half a day", "Half a day"]), Col("Entry €", [2, 2, 2, 2, 0, 2, 0], "number")])
+creditsHeader = InlineHeader("Photo credits", "Wikimedia Commons")
+credits = Table([Col("Photo", photos.photos.title), Col("Credit", photos.photos.credit)])
+followUps = FollowUpBlock([f1, f2])
+f1 = FollowUpItem("Plan a 3-day trip to Ohrid")
+f2 = FollowUpItem("Plan the St. Naum day trip in detail")
+src1 = {title: "Photos", sourceName: "Wikimedia Commons", url: "https://commons.wikimedia.org"}

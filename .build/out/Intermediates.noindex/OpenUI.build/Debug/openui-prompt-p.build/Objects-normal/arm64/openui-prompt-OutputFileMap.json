@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/openui-prompt-primary.dia",
+    "emit-module-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/openui-prompt-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/openui-prompt-primary-emit-module.dia",
+    "pch" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/openui-prompt-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/openui-prompt-primary.swiftdeps"
+  },
+  "/Users/martinmitrevski/workspace/OpenUI/OpenUIPrompt/main.swift" : {
+    "const-values" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/main.swiftconstvalues",
+    "dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/main.d",
+    "diagnostics" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/main.dia",
+    "index-unit-output-path" : "/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/main.o",
+    "swift-dependencies" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/main.swiftdeps",
+    "swiftmodule" : "/Users/martinmitrevski/workspace/OpenUI/.build/out/Intermediates.noindex/OpenUI.build/Debug/openui-prompt-p.build/Objects-normal/arm64/main~partial.swiftmodule"
+  }
+}

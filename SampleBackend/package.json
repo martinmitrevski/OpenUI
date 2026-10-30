@@ -1,0 +1,21 @@
+{
+  "name": "openui-sample-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample backend for the OpenUI SwiftUI demo app: streams OpenUI Lang or Markdown answers and serves the mock tools that generated UIs call.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "start:demo": "node server.mjs --demo",
+    "start:anthropic": "node server.mjs --anthropic",
+    "start:openai": "node server.mjs --openai",
+    "test": "node --test --test-timeout=30000"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.132.1",
+    "openai": "^7.30.1"
+  }
+}
